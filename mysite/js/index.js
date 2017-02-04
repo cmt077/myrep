@@ -1,2 +1,2 @@
 alert(123);
-conlog aosda
+conlog.log(123123);
